@@ -1,0 +1,36 @@
+html {
+	scroll-behavior: smooth;
+  }
+
+body {
+	font-family: "Lato", sans-serif;
+	padding: 20px;
+}
+
+#app {
+	padding: 20px;
+}
+
+#bookInfoCon {
+	margin-top: 40px;
+}
+
+h3 {
+	color:crimson;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+
+#info-box img {
+	max-width: 100px;
+	margin-bottom: 20px;
+}
+
+.title {
+	font-weight: bold;
+	color: crimson;
+}
